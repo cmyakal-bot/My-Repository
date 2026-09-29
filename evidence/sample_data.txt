@@ -1,0 +1,15 @@
+nslookup google.com
+nslookup yahoo.com
+nslookup veradigm.com
+nslookup vituity.com
+nslookup bata.com
+connectivity-check.ubuntu.com
+connectivity-check.ubuntu.com
+connectivity-check.ubuntu.com
+nslookup crowdstrike.com
+nslookup cisco.com
+nslookup microsoft.com
+nslookup nvidia.com
+nslookup intel.com
+nslookup essar.com
+nslookup youtube.com
